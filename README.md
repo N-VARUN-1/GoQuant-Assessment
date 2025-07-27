@@ -79,4 +79,4 @@ http://localhost:3000
 
 
 ### Interface
-<img src="public/interface.png" alt="Screenshot" width="900" />
+<img src="public/interface.png" alt="Screenshot" width="1100" />
