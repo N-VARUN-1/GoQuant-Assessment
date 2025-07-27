@@ -48,6 +48,31 @@ State Management: React Context/Hooks
 
 Styling: CSS Modules/Tailwind (whichever you used)
 
-## Clone the repository:
-``` git clone [repository-url] ```
+### Clone the repository:
+``` 
+git clone [repository-url]
+```
 
+### Install dependencies:
+```
+npm install
+# or
+yarn install
+```
+
+### Set up environment variables:
+```
+CLOUDFLARE_API_TOKEN = your_api_token
+``` 
+
+### Run the development server:
+```
+npm run dev
+# or
+yarn dev
+```
+
+### Open your browser to:
+```
+http://localhost:3000
+```
