@@ -1,4 +1,4 @@
-### 3D World Map with Exchange Server Locations & Real-time Latency Visualization
+# 3D World Map with Exchange Server Locations & Real-time Latency Visualization
 Project Overview
 This project is an interactive 3D world map that visualizes cryptocurrency exchange server locations and their real-time latency data. Built with Next.js, Three.js, and Cloudflare Radar API, it provides a comprehensive view of global exchange infrastructure and network performance.
 
