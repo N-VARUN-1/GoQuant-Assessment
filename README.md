@@ -72,10 +72,11 @@ npm run dev
 yarn dev
 ```
 
-### Interface
-![Interface] (public/interface.png)
-
 ### Open your browser to:
 ```
 http://localhost:3000
 ```
+
+
+### Interface
+<img src="public/interface.png" alt="Screenshot" width="500" />
