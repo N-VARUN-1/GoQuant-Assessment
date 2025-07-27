@@ -48,5 +48,6 @@ State Management: React Context/Hooks
 
 Styling: CSS Modules/Tailwind (whichever you used)
 
+## Clone the repository:
 ``` git clone [repository-url] ```
 
