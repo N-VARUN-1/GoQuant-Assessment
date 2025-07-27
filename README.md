@@ -47,3 +47,6 @@ Data API: Cloudflare Radar
 State Management: React Context/Hooks
 
 Styling: CSS Modules/Tailwind (whichever you used)
+
+``` git clone [repository-url] ```
+
